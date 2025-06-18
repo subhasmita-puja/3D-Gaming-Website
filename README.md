@@ -2,20 +2,20 @@
 <h1 align="center">🎮 3D Gaming Website</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Built%20With-GSAP%20%26%20Tailwind%20%26%20React-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Built%20With-React%20%7C%20Three.js%20%7C%20GSAP%20%7C%20Tailwind-blueviolet?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Responsive-Design-success?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Deployed%20On-Vercel-black?style=for-the-badge" />
 </p>
 
 <p align="center">
-  🌐 <a href="https://3-d-gaming-website-sepia.vercel.app/" target="_blank"><strong>Live Demo</strong></a> • 🎥 <a href="./public/screen-recording/Screen Recording 2025-06-18 141648.mp4">Watch Demo Video</a> • ⭐ <a href="https://github.com/subhasmita-puja/3D-Gaming-Website/stargazers">Give a Star</a>
+  🌐 <a href="https://3-d-gaming-website-sepia.vercel.app/" target="_blank"><strong>Live Demo</strong></a> • 🎥 <a href="./public/screen-recording/Screen Recording 2025-06-18 151151.mp4">Watch Demo Video</a> • ⭐ <a href="https://github.com/subhasmita-puja/3D-Gaming-Website/stargazers">Give a Star</a>
 </p>
 
 ---
 
 ## 🌀 About the Project
 
-This is a futuristic **3D Gaming Website** featuring stunning scroll-based transitions and immersive UI effects. Built using the power of **GSAP** and **Tailwind CSS**, this project blends motion and minimalism to create a visually rich gaming experience.
+This is a futuristic **3D Gaming Website** featuring stunning scroll-based transitions and immersive UI effects. Built using the power of **React**, **Three.js**, **GSAP**, and **Tailwind CSS**, this project blends motion and minimalism to create a visually rich gaming experience.
 
 > "Designing a scroll experience that feels like playing a game."
 
@@ -23,6 +23,8 @@ This is a futuristic **3D Gaming Website** featuring stunning scroll-based trans
 
 ## 🌈 Features
 
+⚛️ Built with React for component-based architecture  
+🌐 3D rendering with Three.js  
 ✨ GSAP-powered 3D scroll animations  
 📱 Fully responsive on all devices  
 🎨 Clean UI with utility-first styling via Tailwind  
@@ -33,13 +35,14 @@ This is a futuristic **3D Gaming Website** featuring stunning scroll-based trans
 
 ## 🚀 Tech Stack
 
-| Technology | Description |
-|------------|-------------|
-| ⚛️ React | JavaScript library for building UI |
-| 🎯 GSAP    | Advanced animations and ScrollTrigger |
-| 🎨 Tailwind CSS | Utility-first CSS framework |
-| 🌍 HTML/CSS/JS | Lightweight frontend |
-| 🔧 Vercel   | Cloud deployment & hosting |
+| Technology      | Description                         |
+|-----------------|-------------------------------------|
+| ⚛️ React         | Component-based UI framework        |
+| 🌐 Three.js      | JavaScript 3D library               |
+| 🎯 GSAP          | Advanced animations and ScrollTrigger |
+| 🎨 Tailwind CSS  | Utility-first CSS framework         |
+| 🌍 HTML/CSS/JS   | Lightweight frontend                |
+| 🔧 Vercel        | Cloud deployment & hosting          |
 
 ---
 
@@ -47,7 +50,7 @@ This is a futuristic **3D Gaming Website** featuring stunning scroll-based trans
 
 > 🎥 Click below to watch a full walkthrough of the 3D animation effects in action:
 
-</a> • 🎥 <a href="./public/screen-recording/Screen Recording 2025-06-18 141648.mp4">Watch Demo Video</a>
+</a> • 🎥 <a href="./public/screen-recording/Screen Recording 2025-06-18 151151.mp4">Watch Demo Video</a>
 
 
 ---
@@ -96,7 +99,8 @@ cd 3D-Gaming-Website
 
 - How to implement **GSAP ScrollTrigger** for interactive animation  
 - How to build futuristic UI using **Tailwind CSS**  
-- Mastered the art of **scroll-based storytelling in web design**
+- Mastered the art of **scroll-based storytelling in web design**  
+- Learned to combine **React** and **Three.js** for immersive effects
 
 ---
 
